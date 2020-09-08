@@ -6,23 +6,23 @@ A curated list of awesome books, tutorials, courses, and resources for the Sprin
 
 If you're new to Spring, start with watching the [What is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM) video.
 
-## Contents
+## 内容
 
-* [Books](#books)
-* [Courses](#courses)
-* [Podcasts](#podcasts)
-* [Tutorials](#tutorials)
+* [书籍](#books)
+* [课程](#courses)
+* [播客](#podcasts)
+* [教程](#tutorials)
   * [Spring Boot](#spring-boot)
   * [Spring Cloud](#spring-cloud)
   * [Spring Framework](#spring-framework)
   * [Spring Security](#spring-security)
-* [Other Resources](#other-resources)
-  * [Blogs](#blogs)
-  * [YouTube Channels and Playlists](#youtube-channels-and-playlists)
-* [Spring Project Resources](#spring-project-resources)
+* [其他资源](#other-resources)
+  * [博客](#blogs)
+  * [YouTube 频道以及播放列表](#youtube-channels-and-playlists)
+* [Spring 项目资源](#spring-project-resources)
 * [Contributing](#contributing)
 
-## Books
+## 书籍
 
 * [Cloud Native Java](http://cloudnativejava.io/), 2017 - Learn how to build scalable & resilient cloud native applications with Spring Boot, Spring Cloud, and Cloud Foundry.
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action), 2021 - A hands-on guide to cloud native application development using Spring Boot, Spring Cloud, Docker, and Kubernetes.
@@ -31,15 +31,15 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring Boot: Up & Running](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), 2021 - A guide through Spring Boot’s architecture and approach, along with topics such as debugging, testing, and deployment.
 * [Spring Security in Action](https://www.manning.com/books/spring-security-in-action), 2020 - Learn how to secure web applications from the most common threats using Spring Security.
 
-## Courses
+## 课程
 
 * [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional) - Built to give you a comprehensive understanding of the Spring ecosystem, including Spring Framework, Spring MVC, Spring Data, and Spring Boot.
 
-## Podcasts
+## 播客
 
 * [Bootiful Podcast](http://bootifulpodcast.fm/) - A "celebration of the real heroes that drive ecosystems", hosted by the Spring developer advocate Josh Long.
 
-## Tutorials
+## 教程
 
 ### Spring Boot
 
@@ -51,7 +51,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 
 * [Centralized Configuration with Spring Cloud Config](https://www.thomasvitale.com/spring-cloud-config-basics/) - Learn how to build a central config server with Spring Cloud Config, configure a Spring Boot application with it, and refresh the config at runtime.
 
-### Spring Framework
+### Spring 框架
 
 * [What is Spring Framework: Dependency Injection in Java](https://www.marcobehler.com/guides/spring-framework) - A guide to understand what Spring framework is and how its core features like dependency injection or aspected oriented programming work.
 
@@ -62,28 +62,28 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring Security: Authentication and Authorization In-Depth](https://www.marcobehler.com/guides/spring-security) - A guide to understand what Spring Security is and how its core features like authentication, authorization or common exploit protection work.
 * [Spring Security and Keycloak to Secure a Spring Boot Application](https://www.thomasvitale.com/spring-security-keycloak/) - Keycloak is a solution for identity and access management. Learn how to secure a Spring Boot application using Spring Security and Keycloak.
 
-## Other Resources
+## 其他资源
 
-### Blogs
+### 博客
 
 * [Baeldung](https://www.baeldung.com/) - In-depth articles and tutorials in the Java ecosystem and web development, with a strong focus on Spring, Spring Security and RESTful APIs.
 * [Marco Behler](https://www.marcobehler.com/guides) - Guides and tutorials about programming Java and Spring applications.
 * [Reflectoring](https://reflectoring.io/) - Guides and tutorials about Spring Boot, Java, and software development principles.
 
-### YouTube Channels and Playlists
+### YouTube 频道和播放列表
 
 * [Spring Academy](https://www.youtube.com/c/SpringAcademy/) - Video tutorials about Spring, with focus on Spring Cloud AWS and Spring Data.
 * [Spring Developer](https://www.youtube.com/user/SpringSourceDev/) - The official YouTube channel for the Spring project.
 * [Spring I/O Conference](https://www.youtube.com/c/SpringIOConference/) - Videos of keynotes and talks from all the past editions of the Spring I/O Conference.
 * [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc) - Video playlist with tips and tutorials about Spring by Josh Long.
 
-## Spring Project Resources
+## Spring 项目资源
 
 * [Spring Blog](https://spring.io/blog)
 * [Spring Guides](https://spring.io/guides)
 * [Spring Projects](https://spring.io/projects)
 
-## Contributing
+## 贡献
 
 Contributions are very welcome!
 
