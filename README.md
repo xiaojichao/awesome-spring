@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem.
+一个精心挑选的Spring框架生态圈优秀书籍、教程、课程和资源的列表。
 
 If you're new to Spring, start with watching the [What is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM) video.
 
@@ -14,7 +14,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [教程](#tutorials)
   * [Spring Boot](#spring-boot)
   * [Spring Cloud](#spring-cloud)
-  * [Spring Framework](#spring-framework)
+  * [Spring 框架](#spring-framework)
   * [Spring Security](#spring-security)
 * [其他资源](#other-resources)
   * [博客](#blogs)
@@ -66,9 +66,9 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 
 ### 博客
 
-* [Baeldung](https://www.baeldung.com/) - In-depth articles and tutorials in the Java ecosystem and web development, with a strong focus on Spring, Spring Security and RESTful APIs.
-* [Marco Behler](https://www.marcobehler.com/guides) - Guides and tutorials about programming Java and Spring applications.
-* [Reflectoring](https://reflectoring.io/) - Guides and tutorials about Spring Boot, Java, and software development principles.
+* [Baeldung](https://www.baeldung.com/) - Java生态圈和Web开发方面的深入文章和教程，重点关注Spring、Spring Security和RESTful API。
+* [Marco Behler](https://www.marcobehler.com/guides) - Java 和 Spring 应用程序开发指南及教程。
+* [Reflectoring](https://reflectoring.io/) - Spring Boot、Java以及软件开发原则的指南和教程。
 
 ### YouTube 频道和播放列表
 
